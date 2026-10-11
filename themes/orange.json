@@ -12,14 +12,14 @@
 		"editorCursor.foreground": "#f8f8f2",
 		"editor.findMatchBackground": "#3a3c42",
 		"editor.findMatchBorder": "#ab4715",
-		"menubar.selectionBackground": "#61309c",
+		"menubar.selectionBackground": "#dc5f33",
 		"menubar.selectionForeground": "#f8f8f2",
 		"activityBar.background": "#3a3c42",
 		"activityBar.foreground": "#f8f8f2",
-		"activityBar.activeBorder": "#61309c",
-		"activityBar.activeBackground": "#61309c",
+		"activityBar.activeBorder": "#dc5f33",
+		"activityBar.activeBackground": "#dc5f33",
 		"menu.foreground": "#f8f8f2",
-		"menu.selectionBackground": "#61309c",
+		"menu.selectionBackground": "#dc5f33",
 		"sideBar.background": "#252526",
 		"sideBar.border": "#252526",
 		"sideBarSectionHeader.background": "#3a3c42",
@@ -31,26 +31,26 @@
 		"tab.inactiveBackground": "#252526",
 		"tab.hoverForeground": "#ffffff",
 		"tab.hoverBackground": "#686868",
-		"button.background": "#61309c",
+		"button.background": "#dc5f33",
 		"button.foreground": "#FFFFFF",
-		"button.hoverBackground": "#7339b9",
-		"list.hoverBackground": "#61309c",
-		"list.inactiveSelectionBackground": "#61309c",
-		"list.activeSelectionBackground": "#61309c",
+		"button.hoverBackground": "#f76b39",
+		"list.hoverBackground": "#dc5f33",
+		"list.inactiveSelectionBackground": "#bf522d",
+		"list.activeSelectionBackground": "#dc5f33",
 		"list.focusBackground": "#3a3c42",
 		"scrollbarSlider.background": "#686868",
-		"scrollbarSlider.activeBackground": "#7339b9",
-		"scrollbarSlider.hoverBackground": "#61309c",
+		"scrollbarSlider.activeBackground": "#f76b39",
+		"scrollbarSlider.hoverBackground": "#dc5f33",
 		"statusBar.background": "#3a3c42",
 		"statusBar.debuggingBackground": "#ab4715",
-		"statusBarItem.hoverBackground": "#61309c",
+		"statusBarItem.hoverBackground": "#dc5f33",
 		"minimap.selectionHighlight": "#368f3e",
 		"minimap.background": "#252526",
-		"editorLineNumber.foreground": "#763abe",
-		"focusBorder": "#61309c",
+		"editorLineNumber.foreground": "#d86e49",
+		"focusBorder": "#dc5f33",
 		"panel.background": "#252526",
-		"textLink.foreground": "#61309c",
-		"textLink.activeForeground": "#7339b9",
+		"textLink.foreground": "#dc5f33",
+		"textLink.activeForeground": "#f76b39",
 		"input.background": "#252526",
 		"dropdown.background": "#252526",
 		"inputOption.activeBorder": "#FFD479",
@@ -79,42 +79,42 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#50bc90ff"
+				"foreground": "#50bc90"
 			},
 			"name": "String",
 			"scope": "string.quoted.double, markup.inline.raw.string"
 		},
 		{
 			"settings": {
-				"foreground": "#a566ef"
+				"foreground": "#dc5f33"
 			},
 			"name": "Keyword",
 			"scope": "keyword, keyword.operator.expression.typeof, variable.language.this, storage, support.function.construct.output.php, keyword.operator.new, keyword.operator.expression.import.js, markup.underline.link"
 		},
 		{
 			"settings": {
-				"foreground": "#e1b42b"
+				"foreground": "#e2942e"
 			},
 			"name": "Class",
 			"scope": "entity.name.type.class, support.class.qml, variable.other.object.js, support.type.object.module, entity.name.section, support.function.powershell"
 		},
 		{
 			"settings": {
-				"foreground": "#ef3db6"
+				"foreground": "#50bc90ff"
 			},
 			"name": "Interface",
 			"scope": "entity.name.type.interface, string.other.link.title, string.other.link.description"
 		},
 		{
 			"settings": {
-				"foreground": "#e1b42b"
+				"foreground": "#e2a556"
 			},
 			"name": "Struct",
 			"scope": "entity.name.type.struct"
 		},
 		{
 			"settings": {
-				"foreground": "#d2a09c"
+				"foreground": "#e1b42b"
 			},
 			"name": "Enum",
 			"scope": "entity.name.type.enum"
@@ -128,14 +128,14 @@
 		},
 		{
 			"settings": {
-				"foreground": "#ef3db6"
+				"foreground": "#50bc90ff"
 			},
 			"name": "Constants",
 			"scope": "constant.language, constant.language"
 		},
 		{
 			"settings": {
-				"foreground": "#ef3db6"
+				"foreground": "#50bc90ff"
 			},
 			"name": "Numerics",
 			"scope": "constant.numeric"
@@ -177,14 +177,14 @@
 		},
 		{
 			"settings": {
-				"foreground": "#a566ef"
+				"foreground": "#2f97e2"
 			},
 			"name": "Tag name",
 			"scope": "entity.name.tag.localname.xml, entity.name.tag.html, support.type.property-name, entity.name.tag.yaml, support.type.property-name.json"
 		},
 		{
 			"settings": {
-				"foreground": "#e1b42b"
+				"foreground": "#92a8ae"
 			},
 			"name": "Attribute name",
 			"scope": "entity.other.attribute-name"
