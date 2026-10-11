@@ -71,8 +71,8 @@
 		"terminal.ansiBrightRed": "#f2777a",
 		"terminal.ansiBrightWhite": "#ffffff",
 		"terminal.ansiBrightYellow": "#ffd479",
-		"diffEditor.insertedTextBackground": "#368f3e",
-		"diffEditor.removedTextBackground": "#8F3636",
+		"diffEditor.insertedTextBackground": "#368f3ea0",
+		"diffEditor.removedTextBackground": "#8F3636a0",
 		"diffEditor.border": "#3a3c42"
 	},
 	"semanticHighlighting": true,
