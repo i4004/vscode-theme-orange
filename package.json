@@ -1,6 +1,6 @@
 {
 	"name": "vscode-theme-orange",
-	"displayName": "Oange Theme VS Code",
+	"displayName": "Orange Theme VS Code",
 	"description": "Visual Studio Code dark theme.",
 	"version": "1.0.0",
 	"publisher": "Alexanderius",
@@ -31,7 +31,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Oange",
+				"label": "Orange",
 				"uiTheme": "vs-dark",
 				"path": "./themes/orange.json"
 			}

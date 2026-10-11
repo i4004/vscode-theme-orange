@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Oange",
+	"name": "Orange",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#3a3c42",
