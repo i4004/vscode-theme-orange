@@ -28,7 +28,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
      inkscape:cx="1224.7089"
-     inkscape:cy="1295.4196"
+     inkscape:cy="1298.248"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      inkscape:document-rotation="0"
@@ -36,7 +36,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
-     inkscape:window-height="1362"
+     inkscape:window-height="1355"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -179,7 +179,7 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro';letter-spacing:0px;word-spacing:0px;fill:#e1b42b;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro';letter-spacing:0px;word-spacing:0px;fill:#e2942e;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="320.39862"
        y="344.41733"
        id="text907"><tspan
@@ -187,10 +187,10 @@
          id="tspan905"
          x="320.39862"
          y="344.41733"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:300px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e1b42b;fill-opacity:1;stroke-width:0.264583">&gt;</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:300px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e2942e;fill-opacity:1;stroke-width:0.264583">&gt;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro';letter-spacing:0px;word-spacing:0px;fill:#ef3db6;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro';letter-spacing:0px;word-spacing:0px;fill:#2f97e2;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="185.33528"
        y="352.32748"
        id="text907-5"><tspan
@@ -198,10 +198,10 @@
          id="tspan905-3"
          x="185.33528"
          y="352.32748"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:300px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ef3db6;fill-opacity:1;stroke-width:0.264583">/</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:300px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2f97e2;fill-opacity:1;stroke-width:0.264583">/</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro';letter-spacing:0px;word-spacing:0px;fill:#61309c;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Trajan Pro';-inkscape-font-specification:'Trajan Pro';letter-spacing:0px;word-spacing:0px;fill:#dc5f33;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="45.562405"
        y="344.41733"
        id="text907-6"><tspan
@@ -209,6 +209,6 @@
          id="tspan905-4"
          x="45.562405"
          y="344.41733"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:300px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#61309c;fill-opacity:1;stroke-width:0.264583">&lt;</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:300px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#dc5f33;fill-opacity:1;stroke-width:0.264583">&lt;</tspan></text>
   </g>
 </svg>
