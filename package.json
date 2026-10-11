@@ -1,0 +1,40 @@
+{
+	"name": "vscode-theme-orange",
+	"displayName": "Oange Theme VS Code",
+	"description": "Visual Studio Code dark theme.",
+	"version": "1.0.0",
+	"publisher": "Alexanderius",
+	"license": "GPLv3",
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#2d2d2d",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/i4004/vscode-theme-orange"
+	},
+	"bugs": {
+		"url": "https://github.com/i4004/vscode-theme-orange/issues"
+	},
+	"engines": {
+		"vscode": "^1.42.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"orange",
+		"theme",
+		"dark"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Oange",
+				"uiTheme": "vs-dark",
+				"path": "./themes/orange.json"
+			}
+		]
+	}
+}
